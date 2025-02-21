@@ -27,3 +27,8 @@ HERE ARE THE MAIN FEATURES OF THE CODE:
 - MULTITHREADING
 - JAVA SOCKET API
 - JAVA MULTITHREADING API
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/06c7d18c-b230-457d-97c1-4bd1011e0320)
+![Image](https://github.com/user-attachments/assets/a817e070-8fc7-4b79-a391-e0976d20cc4b)
